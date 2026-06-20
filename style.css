@@ -1,0 +1,26 @@
+body {
+    font-family: Arial;
+    background: #111;
+    color: #fff;
+    text-align: center;
+}
+
+textarea {
+    width: 80%;
+    height: 200px;
+    margin: 10px;
+    background: #222;
+    color: #0f0;
+}
+
+button {
+    padding: 10px 20px;
+    background: green;
+    color: white;
+    border: none;
+}
+
+pre {
+    background: black;
+    padding: 10px;
+}
